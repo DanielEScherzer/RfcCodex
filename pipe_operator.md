@@ -54,3 +54,4 @@ Previous RFCs:
 
 * https://wiki.php.net/rfc/pipe-operator - didn't go to vote.
 * https://wiki.php.net/rfc/pipe-operator-v2 - rejected 11-17 against.
+* https://wiki.php.net/rfc/pipe-operator-v3 - discussion in progress (February 2025)
